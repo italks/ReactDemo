@@ -3,4 +3,4 @@
 1、Hello-world
 
 ##测试React Native
-1、[AwesomeProject](https://github.com/italks/ReactDemo/tree/master/AwesomeProject/README.html)
+1、[AwesomeProject](https://github.com/italks/ReactDemo/tree/master/AwesomeProject)
